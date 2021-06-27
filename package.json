@@ -1,0 +1,10 @@
+{
+  "name": "ExpressJSPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rgavin1/ExpressJSPractice.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
